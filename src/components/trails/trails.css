@@ -1,0 +1,7 @@
+.trail { /* className for the trail elements */
+  display: block;
+  position: absolute;
+  height: 6px; width: 6px;
+  border-radius: 50%;
+  background: crimson;
+}
